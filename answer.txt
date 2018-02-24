@@ -1,0 +1,103 @@
+"Willy Susilo" "Yi Mu"	217
+"Sungyoung Lee" "Young-Koo Lee"	181
+"Siwei Ma" "Wen Gao 0001"	174
+"Shojiro Nishio" "Takahiro Hara"	232
+"Robert Wille" "Rolf Drechsler"	156
+"Petru Eles" "Zebo Peng"	191
+"Shiguang Shan" "Xilin Chen"	191
+"Oscar Castillo" "Patricia Melin"	281
+"Mei-Ling Shyu" "Shu-Ching Chen"	134
+"Mayank Vatsa" "Richa Singh"	152
+"Mary Jane Irwin" "Narayanan Vijaykrishnan"	151
+"Makoto Takizawa" "Tomoya Enokido"	360
+"Louise E. Moser" "P. M. Melliar-Smith"	149
+"Leonard Barolli" "Tetsuya Oda"	196
+"Leonard Barolli" "Makoto Ikeda"	227
+"Lei Guo 0002" "Tianming Liu"	139
+"Sakriani Sakti" "Satoshi Nakamura 0001"	139
+"Lajos Hanzo" "Soon Xin Ng"	179
+"Kiyoharu Aizawa" "Toshihiko Yamasaki"	123
+"Michitaka Hirose" "Takuji Narumi"	123
+"Olivier Pivert" "Patrick Bosc"	123
+"Tetsuya Takiguchi" "Yasuo Ariki"	123
+"Kei Okada" "Masayuki Inaba"	161
+"Juan-Carlos Cano" "Pietro Manzoni"	199
+"Joel H. Saltz" "Tahsin M. Kur&ccedil;"	162
+"J&ouml;rg Henkel" "Muhammad Shafique"	160
+"Keikichi Hirose" "Nobuaki Minematsu"	160
+"Tatsuo Arai" "Yasushi Mae"	160
+"Irith Pomeranz" "Sudhakar M. Reddy"	426
+"Insup Lee" "Oleg Sokolsky"	141
+"K. J. Ray Liu" "Yan Chen"	141
+"Hiroshi Saruwatari" "Kiyohiro Shikano"	189
+"Shoji Hirano" "Shusaku Tsumoto"	189
+"Hiroshi Kawaguchi" "Masahiko Yoshimoto"	135
+"Hiroki Nishiyama" "Nei Kato"	145
+"Hai Jin" "Xiaofei Liao"	155
+"Guangquan Zhang" "Jie Lu"	203
+"Giovanni De Micheli" "Luca Benini"	144
+"Hong Gao" "Jianzhong Li"	144
+"Lajos Hanzo" "Sheng Chen 0001"	144
+"Nicola Santoro" "Paola Flocchini"	144
+"George R. Thoma" "Sameer K. Antani"	119
+"Ioannis Pitas" "Nikos Nikolaidis"	119
+"Javier Bajo" "Juan M. Corchado"	119
+"Fumihito Arai" "Toshio Fukuda"	201
+"Fr&eacute;d&eacute;ric Cuppens" "Nora Cuppens-Boulahia"	165
+"Floriana Esposito" "Stefano Ferilli"	133
+"Stan Z. Li" "Zhen Lei"	133
+"Flemming Nielson" "Hanne Riis Nielson"	171
+"Fedor V. Fomin" "Saket Saurabh"	115
+"Gudula R&uuml;nger" "Thomas Rauber"	115
+"Hannu Tenhunen" "Juha Plosila"	115
+"Jun Ota" "Tamio Arai"	115
+"Krishnendu Chatterjee" "Thomas A. Henzinger"	115
+"Massoud Pedram" "Yanzhi Wang"	115
+"Pavel Kr&ouml;mer" "V&aacute;clav Sn&aacute;sel"	115
+"Takuji Narumi" "Tomohiro Tanikawa"	115
+"Fatos Xhafa" "Leonard Barolli"	334
+"Farokh B. Bastani" "I-Ling Yen"	129
+"Eun-Jun Yoon" "Kee-Young Yoo"	120
+"Frank Hannig" "J&uuml;rgen Teich"	120
+"Shiguang Shan" "Wen Gao 0001"	120
+"Esther Guerra" "Juan de Lara"	110
+"Franco Zambonelli" "Marco Mamei"	110
+"J&uuml;rgen Becker" "Michael H&uuml;bner"	110
+"Jan Platos" "V&aacute;clav Sn&aacute;sel"	110
+"Jos&eacute; Neves" "Paulo Novais"	110
+"Erik Mannens" "Rik Van de Walle"	136
+"Hiroshi Ishiguro" "Norihiro Hagita"	136
+"Jon W. Mark" "Xuemin Shen"	136
+"Leonard Barolli" "Makoto Takizawa"	136
+"Wen Gao 0001" "Xilin Chen"	136
+"Enrico Macii" "Massimo Poncino"	204
+"Elizabeth Chang" "Tharam S. Dillon"	198
+"Edwin R. Hancock" "Richard C. Wilson"	166
+"Pierangela Samarati" "Sabrina De Capitani di Vimercati"	166
+"Dinh Q. Phung" "Svetha Venkatesh"	190
+"Dinggang Shen" "Guorong Wu"	122
+"Luxi Yang" "Yongming Huang"	122
+"Manoj Singh Gaur" "Vijay Laxmi"	122
+"Patrick Girard 0001" "Serge Pravossoudovitch"	122
+"Dimitrios Tzovaras" "Michael G. Strintzis"	103
+"Douglas C. Creighton" "Saeid Nahavandi"	103
+"Dusit Niyato" "Ekram Hossain"	103
+"Hideo Bannai" "Shunsuke Inenaga"	103
+"Hidetomo Ichihashi" "Katsuhiro Honda"	103
+"Didier Dubois" "Henri Prade"	353
+"Didier Colle" "Piet Demeester"	121
+"Donald F. Towsley" "James F. Kurose"	121
+"Ingrid Moerman" "Piet Demeester"	121
+"Masahiko Tsukamoto" "Tsutomu Terada"	121
+"Didier Colle" "Mario Pickavet"	146
+"Erik D. Demaine" "Martin L. Demaine"	146
+"Guido Boella" "Leendert W. N. van der Torre"	146
+"M. N. S. Swamy" "M. Omair Ahmad"	146
+"Depeng Jin" "Yong Li 0008"	140
+"Diego Calvanese" "Giuseppe De Giacomo"	140
+"Depeng Jin" "Lieguang Zeng"	111
+"Huawei Li" "Xiaowei Li 0001"	111
+"Karin Coninx" "Kris Luyten"	111
+"Marcin Paprzycki" "Maria Ganzha"	111
+"Mario Vento" "Pasquale Foggia"	111
+"Taketoshi Mori" "Tomomasa Sato"	111
